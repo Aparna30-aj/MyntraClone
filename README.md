@@ -1,5 +1,6 @@
 # MyntraClone
-# Added - NavBar
+# Added some functionalities:-
+- NavBar
          -homepage with different products cards
             - cards included product name, company name,rating,price,discount,Add to bag button
             
